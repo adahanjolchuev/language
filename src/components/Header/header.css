@@ -1,0 +1,48 @@
+#header {
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    .headerLeft {
+      nav {
+        display: flex;
+        align-items: center;
+        gap: 20px;
+        a {
+          text-decoration: none;
+          font-family: sans-serif;
+          color: rgb(114, 120, 125);
+          font-size: 16px;
+          font-weight: 400;
+          line-height: 19px;
+        }
+        :hover {
+          color: black;
+        }
+      }
+      display: flex;
+      gap: 0 20px;
+    }
+    button {
+      color: rgb(255, 255, 255);
+      font-size: 15px;
+      font-weight: 400;
+      line-height: 16px;
+      padding: 10px 15px;
+      background: black;
+      border: none;
+      outline: none;
+      border-radius: 3px;
+    }
+  }
+}
+
+select {
+  padding: 0 20px;
+  option {
+    background: black;
+    padding: 70px;
+    color: white;
+  }
+}

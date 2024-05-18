@@ -1,0 +1,27 @@
+#about {
+  .about {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+
+    h1 {
+      color: rgb(33, 43, 49);
+      font-family: sans-serif;
+      font-size: 32px;
+      font-weight: 400;
+      line-height: 48px;
+      text-align: center;
+    }
+    p {
+      color: rgb(114, 120, 125);
+      font-family: sans-serif;
+      font-size: 20px;
+      font-weight: 400;
+      line-height: 32px;
+      text-align: center;
+      width: 1005px;
+    }
+  }
+}

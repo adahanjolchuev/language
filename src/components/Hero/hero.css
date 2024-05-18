@@ -1,0 +1,32 @@
+#hero {
+  padding: 90px 0;
+  .hero {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 120px;
+    .heroblock {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      gap: 7px;
+      h3 {
+        text-align: center;
+        color: rgb(33, 43, 49);
+        font-family: sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 24px;
+      }
+      p {
+        color: rgb(114, 120, 125);
+        font-family: sans-serif;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+        text-align: center;
+      }
+    }
+  }
+}

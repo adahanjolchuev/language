@@ -1,0 +1,27 @@
+<svg width="48.000000" height="48.000000" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip8_9">
+			<rect id="Facades" width="48.000000" height="48.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="Facades" width="48.000000" height="48.000000" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip8_9)">
+		<path id="Vector" d="M46.96 25.74C50.6 12.62 44.31 0 33.29 0C27.19 0 24.59 3.5 17.89 11.66C11.2 19.82 1.65 8.47 0 25.74C1.38 41.66 18.65 56.06 26.66 42.77C33.96 30.67 43.33 38.86 46.96 25.74L46.96 25.74Z" fill="#E6F1F9" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<mask id="mask8_10" mask-type="alpha" maskUnits="userSpaceOnUse" x="12.000000" y="14.000000" width="24.000000" height="20.000000">
+			<path id="Vector" d="M13 14L35 14C35.55 14 36 14.44 36 15L36 33C36 33.55 35.55 34 35 34L13 34C12.44 34 12 33.55 12 33L12 15C12 14.44 12.44 14 13 14Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		</mask>
+		<g mask="url(#mask8_10)">
+			<path id="Vector" d="M35 14C35.55 14 36 14.44 36 15L36 33C36 33.55 35.55 34 35 34L13 34C12.44 34 12 33.55 12 33L12 15C12 14.44 12.44 14 13 14L35 14Z" stroke="#036FC7" stroke-opacity="1.000000" stroke-width="4.000000"/>
+		</g>
+		<g mask="url(#mask8_10)">
+			<path id="Vector" d="M12 20L28 20L28 22L12 22L12 20ZM12 26L19 26L19 28L12 28L12 26Z" fill="#036FC7" fill-opacity="1.000000" fill-rule="nonzero"/>
+			<path id="Vector" d="M18 15L20 15L20 21L18 21L18 15ZM23 21L25 21L25 26L23 26L23 21ZM28 15L30 15L30 21L28 21L28 15Z" fill="#036FC7" fill-opacity="1.000000" fill-rule="nonzero"/>
+		</g>
+		<g mask="url(#mask8_10)">
+			<path id="Vector" d="M35 18C28 18 29.5 21.5 28 24C26.5 26.5 23.64 25.47 21 26C18.5 26.5 18.5 31 18.5 33L34 33C34.26 33 34.51 32.89 34.7 32.7C34.89 32.51 35 32.26 35 32L35 18Z" stroke="#036FC7" stroke-opacity="1.000000" stroke-width="2.000000"/>
+		</g>
+	</g>
+</svg>
